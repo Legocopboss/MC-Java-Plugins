@@ -1,0 +1,11 @@
+name: BreakBlockRandomMob
+description: Mobs spawn when breaking blocks, Bedrock/Random blocks where ever you look
+version: 1.0-SNAPSHOT
+main: me.legoplugin.co.breakblockrandommob.BreakBlockRandomMob
+api-version: 1.17
+
+commands:
+  spawn-random-mob:
+    description: spawns a random mob
+    usage: /<command>
+    aliases: []
